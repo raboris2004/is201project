@@ -1,0 +1,13 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: azure;
+}
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+a {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+.CSFont{
+    font-family: 'Comic Sans MS', cursive, sans-serif !important;
+}
